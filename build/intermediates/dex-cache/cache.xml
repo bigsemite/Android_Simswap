@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b92d726ad7de129b3572e1875b277059fb85fb9">
+        <dex dex="C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d5eca829ba2e90e944cba20939a8e2eb229bc6c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1229d3692c8b9a566552a46a88d65c8a3192971c\classes.dex" />
+    </item>
+
+</items>

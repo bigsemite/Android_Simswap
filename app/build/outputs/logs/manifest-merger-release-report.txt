@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amaose\.android\build-cache\6bacbfcd81eb17624b0461148991a68050d3c657\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\amaose\.android\build-cache\74065466ad72c9b69f06fadca5377a4ea3ffb70e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\amaose\.android\build-cache\56ae8ead460325a0e9de7944decc2058a83832cb\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\amaose\.android\build-cache\217fa8d1533a9f1248c8ce90d9f6922be30ce5ea\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\amaose\.android\build-cache\e324234347cecb21081077d27f2a1826b6ae8340\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\amaose\.android\build-cache\b089c74b7297de09da7064991d44acc4f08e37cf\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\amaose\.android\build-cache\61e71fd80386880b5e3e389cb31fbcfe462359a9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\amaose\.android\build-cache\adf71d048c5545d18738863948ac2619a7d57806\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\amaose\.android\build-cache\f80496e472ab7951f1f403356c6ebd773de6c08f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amaose\.android\build-cache\6bacbfcd81eb17624b0461148991a68050d3c657\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:13:5-69
+	android:name
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:13:22-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:14:5-78
+	android:name
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:15:22-78
+application
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:17:5-51:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amaose\.android\build-cache\6bacbfcd81eb17624b0461148991a68050d3c657\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\amaose\.android\build-cache\74065466ad72c9b69f06fadca5377a4ea3ffb70e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\amaose\.android\build-cache\56ae8ead460325a0e9de7944decc2058a83832cb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\amaose\.android\build-cache\217fa8d1533a9f1248c8ce90d9f6922be30ce5ea\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\amaose\.android\build-cache\e324234347cecb21081077d27f2a1826b6ae8340\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\amaose\.android\build-cache\b089c74b7297de09da7064991d44acc4f08e37cf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\amaose\.android\build-cache\61e71fd80386880b5e3e389cb31fbcfe462359a9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\amaose\.android\build-cache\adf71d048c5545d18738863948ac2619a7d57806\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\amaose\.android\build-cache\f80496e472ab7951f1f403356c6ebd773de6c08f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:19:9-45
+	android:theme
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:21:9-40
+receiver#com.bigsemite.simswap.Monitor
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:22:9-33:20
+	android:enabled
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:24:13-35
+	android:exported
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:23:13-57
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT+android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:27:13-32:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:28:17-81
+	android:name
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:28:25-79
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:29:17-79
+	android:name
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:29:25-76
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:31:14-73
+	android:name
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:31:24-70
+activity#com.bigsemite.simswap.MainActivity
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:34:9-42:20
+	android:label
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:35:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:40:27-74
+service#com.bigsemite.simswap.myService3
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:43:9-50:19
+	android:enabled
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:45:13-36
+	android:permission
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:43:18-44
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\amaose\Documents\Android\SmSwap2\SimSwap\app\src\main\AndroidManifest.xml:47:9-49:25
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amaose\.android\build-cache\6bacbfcd81eb17624b0461148991a68050d3c657\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\amaose\.android\build-cache\74065466ad72c9b69f06fadca5377a4ea3ffb70e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\amaose\.android\build-cache\56ae8ead460325a0e9de7944decc2058a83832cb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\amaose\.android\build-cache\217fa8d1533a9f1248c8ce90d9f6922be30ce5ea\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\amaose\.android\build-cache\e324234347cecb21081077d27f2a1826b6ae8340\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\amaose\.android\build-cache\b089c74b7297de09da7064991d44acc4f08e37cf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\amaose\.android\build-cache\61e71fd80386880b5e3e389cb31fbcfe462359a9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\amaose\.android\build-cache\adf71d048c5545d18738863948ac2619a7d57806\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\amaose\.android\build-cache\f80496e472ab7951f1f403356c6ebd773de6c08f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amaose\.android\build-cache\6bacbfcd81eb17624b0461148991a68050d3c657\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amaose\.android\build-cache\6bacbfcd81eb17624b0461148991a68050d3c657\output\AndroidManifest.xml:26:9-47
